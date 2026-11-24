@@ -1,3 +1,5 @@
-# gonzales_mobprog
-
-A new Flutter project.
+What challenges did you encounter while installing or configuring Flutter? One of the challenges I encountered was understanding how to properly set up Flutter and configure it in Visual Studio Code. At first, I was a little confused about the installation process, especially when dealing with the Flutter SDK and making sure everything was properly connected.
+Did you encounter any errors when running flutter doctor? When I used the flutter doctor command, I was able to check if my development environment was ready. It helped me identify which tools were already installed and which ones still needed attention.
+How did you resolve installation, dependency, SDK, or device-related issues? I followed the installation instructions and took my time checking each step. Whenever I was unsure about something, I referred to the official Flutter documentation. I also used flutter doctor to check my setup and make sure everything was working properly.
+What did you learn about configuring a Flutter development environment? Through this activity, I learned that setting up a development environment is an important part of programming. I became more familiar with Flutter, Visual Studio Code, and the tools needed to create and run a mobile application. I also learned how to create a new Flutter project and understand its basic file structure.
+What practices will you follow to make future Flutter development easier? For future activities, I will make sure that my tools and dependencies are properly updated. I will also organize my project files, follow instructions carefully, and save my work regularly using GitHub. Most importantly, I will try to familiarize myself with Flutter by practicing and exploring its features.
